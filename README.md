@@ -1,3 +1,10 @@
+<!--
+SPDX-FileCopyrightText: 2013-2016 Ivan Menshykov
+SPDX-FileCopyrightText: Winni Neessen <wn@neessen.dev>
+
+SPDX-License-Identifier: MIT
+-->
+
 # MoonPhase
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/janczer/MoonPhase/master/LICENSE)
 
