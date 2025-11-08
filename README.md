@@ -26,5 +26,8 @@ the contributors acknowledged below.
 
 ## Acknowledgments
 
-This package's code and documentation are very closely derived [php-moon-phase](https://github.com/solarissmoke/php-moon-phase)
+This package is a fork of [janczer/goMoonPhase](https://github.com/janczer/goMoonPhase). The only 
+difference is that it has been converted to be a Go mod module.
+
+The original package's code and documentation are very closely derived [php-moon-phase](https://github.com/solarissmoke/php-moon-phase)
 PHP class for calculating the phase of the Moon created by Samir Shah.
